@@ -39,5 +39,13 @@ This project is a fully functional E-Commerce REST API built with Java and Sprin
 
    ```bash
    git clone https://github.com/your-username/e-commerce-api.git
+
+
+<img src="https://github.com/anurajaiswal/E-Commerce-API/blob/main/architecture/Screenshot%20(27).png" alt="Architecture" width="850"/>
+<img src="https://github.com/anurajaiswal/E-Commerce-API/blob/main/architecture/Screenshot%20(23).png" alt="API Endpoints" width="850"/>
+
+
+  
+
    
 
